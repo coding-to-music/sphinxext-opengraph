@@ -1,4 +1,4 @@
-Copyright (c) 2020 FIRST
+Copyright (c) 2021 Thomas Connors, based upon a fork of an extension by FIRST
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

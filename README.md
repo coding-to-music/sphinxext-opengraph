@@ -1,19 +1,19 @@
-# sphinxext-opengraph
-![Build](https://github.com/wpilibsuite/sphinxext-opengraph/workflows/Test%20and%20Deploy/badge.svg)
+# sphinxext-opengraph2
+![Build](https://github.com/wpilibsuite/sphinxext-opengraph2/workflows/Test%20and%20Deploy/badge.svg)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Sphinx extension to generate OpenGraph metadata (https://ogp.me/)
+Sphinx extension to generate opengraph2 metadata (https://ogp.me/)
 
 ## Installation
 
-`python -m pip install sphinxext-opengraph`
+`python -m pip install sphinxext-opengraph2`
 
 ## Usage
-Just add `sphinxext.opengraph` to your extensions list in your `conf.py`
+Just add `sphinxext.opengraph2` to your extensions list in your `conf.py`
 
 ```python
 extensions = [
-   "sphinxext.opengraph",
+   "sphinxext.opengraph2",
 ]
 ```
 ## Options

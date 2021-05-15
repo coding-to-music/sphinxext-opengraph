@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.abspath("../.."))
 
 # -- Project information -----------------------------------------------------
 
-project = "sphinxext-opengraph"
+project = "sphinxext-opengraph2"
 copyright = "2020, FIRST"
 author = "WPILib"
 
@@ -33,7 +33,7 @@ release = "1.0"
 # ones.
 extensions = [
     "myst_parser",
-    "sphinxext.opengraph",
+    "sphinxext.opengraph2",
 ]
 
 # Add any paths that contain templates here, relative to this directory.

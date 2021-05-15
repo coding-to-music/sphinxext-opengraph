@@ -1,4 +1,4 @@
-extensions = ["sphinxext.opengraph"]
+extensions = ["sphinxext.opengraph2"]
 
 master_doc = "index"
 exclude_patterns = ["_build"]
