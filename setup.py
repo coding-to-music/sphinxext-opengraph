@@ -20,16 +20,16 @@ with open("README.md", "r", encoding="utf-8") as readme:
     long_description = readme.read()
 
 setuptools.setup(
-    name="sphinxext-opengraph2",
+    name="sphinxext-Meta-SEO-OpenGraph",
     version=version,
     author="Thomas Connors",
     author_email="connors.tom@gmail.com",
     description="Sphinx Extension to enable OGP support",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/wpilibsuite/sphinxext-opengraph2",
+    url="https://github.com/wpilibsuite/sphinxext-Meta-SEO-OpenGraph",
     install_requires=["sphinx>=2.0"],
-    packages=["sphinxext/opengraph2"],
+    packages=["sphinxext/Meta-SEO-OpenGraph"],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Environment :: Plugins",

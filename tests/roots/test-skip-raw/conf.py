@@ -1,4 +1,4 @@
-extensions = ["sphinxext.opengraph2"]
+extensions = ["sphinxext.Meta-SEO-OpenGraph"]
 
 master_doc = "index"
 exclude_patterns = ["_build"]

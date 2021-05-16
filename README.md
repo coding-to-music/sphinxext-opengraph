@@ -1,19 +1,19 @@
-# sphinxext-opengraph2
-![Build](https://github.com/wpilibsuite/sphinxext-opengraph2/workflows/Test%20and%20Deploy/badge.svg)
+# sphinxext-Meta-SEO-OpenGraph
+![Build](https://github.com/wpilibsuite/sphinxext-Meta-SEO-OpenGraph/workflows/Test%20and%20Deploy/badge.svg)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Sphinx extension to generate opengraph2 metadata (https://ogp.me/)
+Sphinx extension to generate Meta-SEO-OpenGraph metadata (https://ogp.me/)
 
 ## Installation
 
-`python -m pip install sphinxext-opengraph2`
+`python -m pip install sphinxext-Meta-SEO-OpenGraph`
 
 ## Usage
-Just add `sphinxext.opengraph2` to your extensions list in your `conf.py`
+Just add `sphinxext.Meta-SEO-OpenGraph` to your extensions list in your `conf.py`
 
 ```python
 extensions = [
-   "sphinxext.opengraph2",
+   "sphinxext.Meta-SEO-OpenGraph",
 ]
 ```
 ## Options
